@@ -14,8 +14,9 @@ A modern, full-stack reservation platform designed for municipalities and privat
 
 #### 1. Interactive Booking Flow (Homepage)
 Users can easily navigate the homepage, select their desired facility, pick a date, and choose a specific picnic area directly from the interactive map.
-![Booking Flow](<img width="800" height="458" alt="EkranKayd2026-07-14104457-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d22551ea-7091-467d-9bb7-d92d71d0a50d" />
-)
+<img width="800" height="458" alt="EkranKayd2026-07-14104457-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9e297601-bb5c-465c-8c93-9f00f94fdc61" />
+
+
 
 #### 2. Admin Dashboard & Analytics
 The comprehensive admin dashboard provides real-time insights, revenue analytics, and an overview of active/pending reservations.
